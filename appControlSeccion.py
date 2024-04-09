@@ -79,11 +79,11 @@ def ReadAllStudents():
 
 # Función para buscar un estudiante por ID
 def ReadStudentById():
-    student_id = input("Ingrese el ID del estudiante: ")
+    studentId = input("Ingrese el ID del estudiante: ")
     print("\n")  # Agrega una línea
 
     try:
-        student = collection.find_one({"_id": ObjectId(student_id)})
+        student = collection.find_one({"_id": ObjectId(studentId)})
         if student:
             print("ID:", student["_id"])
             if "Name" in student:
@@ -99,14 +99,17 @@ def ReadStudentById():
         print("Error:", e)
         print("\n")  # Agrega una línea
 
-
-
 # Función para actualizar los datos de un estudiante
 def updateStudent():
     while True:
         studentId = input("Ingrese el ID del estudiante que desea actualizar: ")
         try:
             studentId = ObjectId(studentId)
+            student = collection.find_one({"_id": studentId})
+            if not student:
+                print("No se encontró ningún estudiante con ese ID.")
+                break
+
             newName = input("Ingrese el nuevo nombre del estudiante: ")
 
             # Validación: Si el nuevo nombre no es una cadena de texto
@@ -159,7 +162,7 @@ def deleteStudent():
         print("Error:", e)
 
 # Función para salir del programa
-def exit_p():
+def exitApp():
     print("Cerrando el programa...")
     sys.exit()
 
@@ -171,7 +174,7 @@ def optionMenu():
         "3": ReadStudentById,
         "4": updateStudent,
         "5": deleteStudent,
-        "6": exit_p
+        "6": exitApp
     }
 
     print("\nBienvenido al administrador de secciones de estudiantes")
