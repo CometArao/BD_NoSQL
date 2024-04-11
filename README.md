@@ -1,4 +1,4 @@
-# Guía 1 | CRUD en Python con MongoDB
+# Guía 1 | Hola mundo
 
 Aplicación desarrollada en Python 3 con MongoDB, orientada para ser ejecutada en Linux/Ubuntu. La aplicación posee funcionalidades CRUD para un sistema de secciones de estudiantes.
 
