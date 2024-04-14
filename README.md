@@ -17,7 +17,17 @@ Cada estudiante cuenta con una ID automática, además de un nombre, una edad y 
 
 # Instalación
 
-Recuerda inicialmente clonar el repositorio con Git clone.
+Para clonar y probar el funcionamiento del trabajo desarrollado, siga los siguientes pasos:
+- Cree un nuevo directorio/carpeta
+- Inicialice un repositorio en git con el siguiente comando:
+```bash
+git init
+```
+- Luego, copie el comando de la guía correspondiente para clonar el repositorio.
+
+```bash
+git clone --branch Guia1 https://github.com/CometArao/BD_NoSQL
+```
 
 ## Dependencias
 
