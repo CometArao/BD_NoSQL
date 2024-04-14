@@ -1,5 +1,6 @@
 import sys
 import requests
+from transformPokemon import transformPokemonInfo
 
 def getPokemonInfo(pokemonId):
     # URL base de la PokeAPI
@@ -26,23 +27,13 @@ def getPokemonInfo(pokemonId):
             print("Habilidades:")
             for ability_info in pokemonData['abilities']:
                 print("-", ability_info['ability']['name'])
+
+            transformPokemonInfo(pokemonData)
         else:
             # Imprimir mensaje de error si la solicitud no fue exitosa
             print("Error al obtener información de Pokémon:", response.status_code)
+            return None
 
     except requests.exceptions.RequestException as e:
         print("Error al conectarse a la PokeAPI:", e)
-
-if __name__ == "__main__":
-    print("Bienvenido al script de información de Pokémon!")
-    pokemonId = input("Introduzca la ID del Pokémon que desea consultar: ")
-
-    if len(pokemonId) == 0:
-        print("No se ha ingresado una ID de Pokémon.")
-        sys.exit(1)
-    elif len(pokemonId) != 2:
-        print("La ID de Pokémon debe tener 2 dígitos.")
-        sys.exit(1)
-    else:
-        getPokemonInfo(pokemonId)
-        print("Gracias por usar el script de información de Pokémon!")
+        return None
