@@ -6,7 +6,7 @@ En cada rama se dejará ejecutando el trabajo específico, con sus respectivas i
 
 
 Ramas disponibles:
-- [Guia1]([https://roadmap.sh/](https://github.com/CometArao/BD_NoSQL/tree/Guia1))
+- [Guia1](https://github.com/CometArao/BD_NoSQL/tree/Guia1)
 - [Guia2]
 
 # Acceder y descargar
