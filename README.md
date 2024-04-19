@@ -10,12 +10,14 @@ Posee las siguientes funcionalidades:
 # Instalación
 
 Para clonar y probar el funcionamiento del trabajo desarrollado, siga los siguientes pasos:
+
 - Cree un nuevo directorio/carpeta
 - Inicialice un repositorio en git con el siguiente comando:
 ```bash
 git init
 ```
 - Luego, copie el comando de la guía correspondiente para clonar el repositorio.
+
 
 ```bash
 git clone --branch Guia2 https://github.com/CometArao/BD_NoSQL
