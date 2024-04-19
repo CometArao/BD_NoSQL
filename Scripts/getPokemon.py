@@ -10,6 +10,9 @@ def getPokemonInfo(pokemonId):
     pokeEndpoint = f"{baseURL}pokemon/{pokemonId}/"
     
     try:
+        # Imprimir la URL para verificar
+        print("URL de la solicitud:", pokeEndpoint)
+
         # Realizar la solicitud HTTP a la API
         response = requests.get(pokeEndpoint)
 
@@ -32,6 +35,7 @@ def getPokemonInfo(pokemonId):
         else:
             # Imprimir mensaje de error si la solicitud no fue exitosa
             print("Error al obtener información de Pokémon:", response.status_code)
+            print("Contenido de la respuesta:", response.text)
             return None
 
     except requests.exceptions.RequestException as e:

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon Data Charts</title>
+    <!-- Agrega la biblioteca D3.js -->
+    <script src="d3.v7.min.js"></script>
+    <style>
+        /* Estilos para centrar los gráficos verticalmente */
+        #chartContainer {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        /* Estilos para los gráficos */
+        .chart {
+            margin-bottom: 20px;
+            margin-right: 20px;
+            position: relative; /* Añadido para posicionar el ícono */
+            text-align: center; /* Añadido para centrar el contenido */
+        }
+
+        .pokemon-container {
+            margin-bottom: 5px;
+            text-align: center; /* Añadido para centrar el contenido */
+        }
+
+        .pokemon-icon {
+            width: 80px; /* Ajusta según sea necesario */
+            height: 80px; /* Ajusta según sea necesario */
+            display: block; /* Añadido para centrar */
+            margin: 0 auto; /* Añadido para centrar */
+        }
+
+        .pokemon-name {
+            font-size: 20px;
+            margin-top: 5px;
+            margin-bottom: -100px; /* Ajusta según sea necesario */
+        }
+
+        .stat-bar {
+            margin-top: 20px; /* Ajusta según sea necesario */
+        }
+
+        /* Añadido para ajustar el tamaño de fuente del texto en las barras */
+        .chart text {
+            font-size: 13px; /* Ajusta el tamaño de fuente según sea necesario */
+            letter-spacing: -1px; /* Ajusta el espaciado entre letras según sea necesario */
+        }
+    </style>
+</head>
+<body>
+    <div id="chartContainer">
+        <h1>Comparativa de estadísticas base entre Pokemon</h1>
+        <!-- Contenedor para el gráfico de barras de estadísticas base de Growlithe -->
+        <div class="pokemon-container">
+            <div>
+                <img class="pokemon-icon" src="/Iconos/growlithe_icon.png">
+                <div class="pokemon-name">Growlithe</div>
+            </div>
+            <div id="growlitheStatsChart" class="chart"></div>
+        </div>
+        
+        <!-- Contenedor para el gráfico de barras de estadísticas base de Porygon -->
+        <div class="pokemon-container">
+            <div>
+                <img class="pokemon-icon" src="/Iconos/porygon_icon.png">
+                <div class="pokemon-name">Porygon</div>
+            </div>
+            <div id="porygonStatsChart" class="chart"></div>
+        </div>
+    </div>
+
+    <script>
+        // Función para cargar los datos de un Pokémon y crear el gráfico de barras de sus estadísticas base
+        function cargarPokemon(url, containerId, color, pokemonName) {
+            // Cargar el archivo JSON con los datos del Pokémon
+            d3.json(url).then(function(data) {
+                // Extraer las estadísticas base del Pokémon
+                var baseStats = data.stats.map(function(stat) {
+                    return { label: stat.stat.name, value: stat.base_stat };
+                });
+
+                // Crear un gráfico de barras para las estadísticas base
+                var statsChart = d3.select("#" + containerId)
+                    .append("svg")
+                    .attr("width", 400)
+                    .attr("height", 200);
+
+                statsChart.selectAll("rect")
+                    .data(baseStats)
+                    .enter()
+                    .append("rect")
+                    .attr("x", function(d, i) { return i * 70; })
+                    .attr("y", function(d) { return 200 - (d.value * 0.5); })
+                    .attr("width", 50)
+                    .attr("height", function(d) { return d.value * 0.5; })
+                    .attr("fill", color)
+                    .attr("class", "stat-bar"); // Añadido para separar las barras
+
+                // Agregar texto a las barras de estadísticas base
+                statsChart.selectAll("text")
+                    .data(baseStats)
+                    .enter()
+                    .append("text")
+                    .attr("x", function(d, i) { return i * 70 + 25; })
+                    .attr("y", function(d) { return 200 - (d.value * 0.5) - 5; })
+                    .text(function(d) { return d.label + ": " + d.value; })
+                    .attr("text-anchor", "middle")
+                    .attr("fill", "black");
+
+            }).catch(function(error) {
+                console.error("Error al cargar el archivo JSON:", error);
+            });
+        }
+
+        // Cargar los datos y crear el gráfico de Growlithe
+        cargarPokemon("/../Scripts/growlithe.json", "growlitheStatsChart", "orange", "Growlithe");
+
+        // Cargar los datos y crear el gráfico de Porygon
+        cargarPokemon("/../Scripts/porygon.json", "porygonStatsChart", "lightcoral", "Porygon");
+    </script>
+</body>
+</html>
+
