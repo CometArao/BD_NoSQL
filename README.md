@@ -8,7 +8,7 @@ En cada rama se dejará ejecutando el trabajo específico, con sus respectivas i
 Ramas disponibles:
 - [Guia1](https://github.com/CometArao/BD_NoSQL/tree/Guia1)
 - [Guia2](https://github.com/CometArao/BD_NoSQL/tree/Guia2)
-- [Proyecto Semestral](https://github.com/CometArao/BD_NoSQL/tree/proyectoSemestral
+- [Proyecto Semestral](https://github.com/CometArao/BD_NoSQL/tree/proyectoSemestral)
 
 # Acceder y descargar
 
