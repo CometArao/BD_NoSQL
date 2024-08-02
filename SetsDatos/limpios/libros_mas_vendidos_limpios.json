@@ -1,0 +1,1394 @@
+[
+    {
+        "book": "A Tale of Two Cities",
+        "author(s)": "Charles Dickens",
+        "original_language": "English",
+        "first_published": 1859,
+        "approximate_sales_in_millions": 200.0,
+        "genre": "Historical fiction"
+    },
+    {
+        "book": "The Little Prince (Le Petit Prince)",
+        "author(s)": "Antoine de Saint-Exupéry",
+        "original_language": "French",
+        "first_published": 1943,
+        "approximate_sales_in_millions": 200.0,
+        "genre": "Novella"
+    },
+    {
+        "book": "Harry Potter and the Philosopher's Stone",
+        "author(s)": "J. K. Rowling",
+        "original_language": "English",
+        "first_published": 1997,
+        "approximate_sales_in_millions": 120.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "And Then There Were None",
+        "author(s)": "Agatha Christie",
+        "original_language": "English",
+        "first_published": 1939,
+        "approximate_sales_in_millions": 100.0,
+        "genre": "Mystery"
+    },
+    {
+        "book": "Dream of the Red Chamber (紅樓夢)",
+        "author(s)": "Cao Xueqin",
+        "original_language": "Chinese",
+        "first_published": 1791,
+        "approximate_sales_in_millions": 100.0,
+        "genre": "Family saga"
+    },
+    {
+        "book": "The Hobbit",
+        "author(s)": "J. R. R. Tolkien",
+        "original_language": "English",
+        "first_published": 1937,
+        "approximate_sales_in_millions": 100.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "The Lion, the Witch and the Wardrobe",
+        "author(s)": "C. S. Lewis",
+        "original_language": "English",
+        "first_published": 1950,
+        "approximate_sales_in_millions": 85.0,
+        "genre": "Fantasy, Children's fiction"
+    },
+    {
+        "book": "She: A History of Adventure",
+        "author(s)": "H. Rider Haggard",
+        "original_language": "English",
+        "first_published": 1887,
+        "approximate_sales_in_millions": 83.0,
+        "genre": "Adventure"
+    },
+    {
+        "book": "Vardi Wala Gunda (वर्दी वाला गुंडा)",
+        "author(s)": "Ved Prakash Sharma",
+        "original_language": "Hindi",
+        "first_published": 1992,
+        "approximate_sales_in_millions": 80.0,
+        "genre": "Detective"
+    },
+    {
+        "book": "The Da Vinci Code",
+        "author(s)": "Dan Brown",
+        "original_language": "English",
+        "first_published": 2003,
+        "approximate_sales_in_millions": 80.0,
+        "genre": "Mystery thriller"
+    },
+    {
+        "book": "Harry Potter and the Chamber of Secrets",
+        "author(s)": "J. K. Rowling",
+        "original_language": "English",
+        "first_published": 1998,
+        "approximate_sales_in_millions": 77.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "Harry Potter and the Prisoner of Azkaban",
+        "author(s)": "J. K. Rowling",
+        "original_language": "English",
+        "first_published": 1999,
+        "approximate_sales_in_millions": 65.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "Harry Potter and the Goblet of Fire",
+        "author(s)": "J. K. Rowling",
+        "original_language": "English",
+        "first_published": 2000,
+        "approximate_sales_in_millions": 65.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "Harry Potter and the Order of the Phoenix",
+        "author(s)": "J. K. Rowling",
+        "original_language": "English",
+        "first_published": 2003,
+        "approximate_sales_in_millions": 65.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "Harry Potter and the Half-Blood Prince",
+        "author(s)": "J. K. Rowling",
+        "original_language": "English",
+        "first_published": 2005,
+        "approximate_sales_in_millions": 65.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "Harry Potter and the Deathly Hallows",
+        "author(s)": "J. K. Rowling",
+        "original_language": "English",
+        "first_published": 2007,
+        "approximate_sales_in_millions": 65.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "The Alchemist (O Alquimista)",
+        "author(s)": "Paulo Coelho",
+        "original_language": "Portuguese",
+        "first_published": 1988,
+        "approximate_sales_in_millions": 65.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "The Catcher in the Rye",
+        "author(s)": "J. D. Salinger",
+        "original_language": "English",
+        "first_published": 1951,
+        "approximate_sales_in_millions": 65.0,
+        "genre": "Coming-of-age"
+    },
+    {
+        "book": "The Bridges of Madison County",
+        "author(s)": "Robert James Waller",
+        "original_language": "English",
+        "first_published": 1992,
+        "approximate_sales_in_millions": 60.0,
+        "genre": "Romance"
+    },
+    {
+        "book": "Ben-Hur: A Tale of the Christ",
+        "author(s)": "Lew Wallace",
+        "original_language": "English",
+        "first_published": 1880,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Historical fiction"
+    },
+    {
+        "book": "You Can Heal Your Life",
+        "author(s)": "Louise Hay",
+        "original_language": "English",
+        "first_published": 1984,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Self-help"
+    },
+    {
+        "book": "One Hundred Years of Solitude (Cien años de soledad)",
+        "author(s)": "Gabriel García Márquez",
+        "original_language": "Spanish",
+        "first_published": 1967,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Magic realism"
+    },
+    {
+        "book": "Lolita",
+        "author(s)": "Vladimir Nabokov",
+        "original_language": "English",
+        "first_published": 1955,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Novel"
+    },
+    {
+        "book": "Heidi",
+        "author(s)": "Johanna Spyri",
+        "original_language": "German",
+        "first_published": 1880,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Children's fiction"
+    },
+    {
+        "book": "The Common Sense Book of Baby and Child Care",
+        "author(s)": "Benjamin Spock",
+        "original_language": "English",
+        "first_published": 1946,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Manual"
+    },
+    {
+        "book": "Anne of Green Gables",
+        "author(s)": "Lucy Maud Montgomery",
+        "original_language": "English",
+        "first_published": 1908,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Children's novel"
+    },
+    {
+        "book": "Black Beauty",
+        "author(s)": "Anna Sewell",
+        "original_language": "English",
+        "first_published": 1877,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Children's literature"
+    },
+    {
+        "book": "The Name of the Rose (Il Nome della Rosa)",
+        "author(s)": "Umberto Eco",
+        "original_language": "Italian",
+        "first_published": 1980,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Historical novel, mystery"
+    },
+    {
+        "book": "The Eagle Has Landed",
+        "author(s)": "Jack Higgins",
+        "original_language": "English",
+        "first_published": 1975,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "War, thriller"
+    },
+    {
+        "book": "Watership Down",
+        "author(s)": "Richard Adams",
+        "original_language": "English",
+        "first_published": 1972,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Fantasy"
+    },
+    {
+        "book": "The Hite Report",
+        "author(s)": "Shere Hite",
+        "original_language": "English",
+        "first_published": 1976,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Sexology"
+    },
+    {
+        "book": "Charlotte's Web",
+        "author(s)": "E. B. White; illustrated by Garth Williams",
+        "original_language": "English",
+        "first_published": 1952,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Children's fiction"
+    },
+    {
+        "book": "The Ginger Man",
+        "author(s)": "J. P. Donleavy",
+        "original_language": "English",
+        "first_published": 1955,
+        "approximate_sales_in_millions": 50.0,
+        "genre": "Novel"
+    },
+    {
+        "book": "The Tale of Peter Rabbit",
+        "author(s)": "Beatrix Potter",
+        "original_language": "English",
+        "first_published": 1902,
+        "approximate_sales_in_millions": 45.0,
+        "genre": "Children's Literature"
+    },
+    {
+        "book": "Jonathan Livingston Seagull",
+        "author(s)": "Richard Bach",
+        "original_language": "English",
+        "first_published": 1970,
+        "approximate_sales_in_millions": 44.0,
+        "genre": "Novella, Self-help"
+    },
+    {
+        "book": "The Very Hungry Caterpillar",
+        "author(s)": "Eric Carle",
+        "original_language": "English",
+        "first_published": 1969,
+        "approximate_sales_in_millions": 43.0,
+        "genre": "Children's Literature, picture book"
+    },
+    {
+        "book": "A Message to Garcia",
+        "author(s)": "Elbert Hubbard",
+        "original_language": "English",
+        "first_published": 1899,
+        "approximate_sales_in_millions": 40.0,
+        "genre": "Essay/Literature"
+    },
+    {
+        "book": "To Kill a Mockingbird",
+        "author(s)": "Harper Lee",
+        "original_language": "English",
+        "first_published": 1960,
+        "approximate_sales_in_millions": 40.0,
+        "genre": "Southern Gothic, Bildungsroman"
+    },
+    {
+        "book": "Flowers in the Attic",
+        "author(s)": "V. C. Andrews",
+        "original_language": "English",
+        "first_published": 1979,
+        "approximate_sales_in_millions": 40.0,
+        "genre": "Gothic horror, Family saga"
+    },
+    {
+        "book": "Cosmos",
+        "author(s)": "Carl Sagan",
+        "original_language": "English",
+        "first_published": 1980,
+        "approximate_sales_in_millions": 40.0,
+        "genre": "Popular science, Anthropology, Astrophysics, Cosmology, Philosophy, History"
+    },
+    {
+        "book": "Sophie's World (Sofies verden)",
+        "author(s)": "Jostein Gaarder",
+        "original_language": "Norwegian",
+        "first_published": 1991,
+        "approximate_sales_in_millions": 40.0,
+        "genre": "Philosophical novel, Young adult"
+    },
+    {
+        "book": "Angels & Demons",
+        "author(s)": "Dan Brown",
+        "original_language": "English",
+        "first_published": 2000,
+        "approximate_sales_in_millions": 39.0,
+        "genre": "Mystery-thriller"
+    },
+    {
+        "book": "Kane and Abel",
+        "author(s)": "Jeffrey Archer",
+        "original_language": "English",
+        "first_published": 1979,
+        "approximate_sales_in_millions": 37.0,
+        "genre": "Novel"
+    },
+    {
+        "book": "How the Steel Was Tempered (Как закалялась сталь)",
+        "author(s)": "Nikolai Ostrovsky",
+        "original_language": "Russian",
+        "first_published": 1932,
+        "approximate_sales_in_millions": 36.4,
+        "genre": "Socialist realist novel"
+    },
+    {
+        "book": "War and Peace (Война и мир)",
+        "author(s)": "Leo Tolstoy",
+        "original_language": "Russian",
+        "first_published": 1869,
+        "approximate_sales_in_millions": 36.0,
+        "genre": "Historical novel"
+    },
+    {
+        "book": "The Adventures of Pinocchio (Le avventure di Pinocchio)",
+        "author(s)": "Carlo Collodi",
+        "original_language": "Italian",
+        "first_published": 1881,
+        "approximate_sales_in_millions": 35.0,
+        "genre": "Fantasy, Children's fiction"
+    },
+    {
+        "book": "The Diary of Anne Frank (Het Achterhuis)",
+        "author(s)": "Anne Frank",
+        "original_language": "Dutch",
+        "first_published": 1947,
+        "approximate_sales_in_millions": 35.0,
+        "genre": "Historical non-fiction, Autobiography, Memoir, Bildungsroman / Coming of Age, Jewish literature"
+    },
+    {
+        "book": "Your Erroneous Zones",
+        "author(s)": "Wayne Dyer",
+        "original_language": "English",
+        "first_published": 1976,
+        "approximate_sales_in_millions": 35.0,
+        "genre": "Self-help"
+    },
+    {
+        "book": "The Thorn Birds",
+        "author(s)": "Colleen McCullough",
+        "original_language": "English",
+        "first_published": 1977,
+        "approximate_sales_in_millions": 33.0,
+        "genre": "Romantic family saga"
+    },
+    {
+        "book": "The Purpose Driven Life",
+        "author(s)": "Rick Warren",
+        "original_language": "English",
+        "first_published": 2002,
+        "approximate_sales_in_millions": 33.0,
+        "genre": "Christian literature"
+    },
+    {
+        "book": "The Kite Runner",
+        "author(s)": "Khaled Hosseini",
+        "original_language": "English",
+        "first_published": 2003,
+        "approximate_sales_in_millions": 31.5,
+        "genre": "Bildungsroman, Historical fiction"
+    },
+    {
+        "book": "Valley of the Dolls",
+        "author(s)": "Jacqueline Susann",
+        "original_language": "English",
+        "first_published": 1966,
+        "approximate_sales_in_millions": 31.0,
+        "genre": "Novel"
+    },
+    {
+        "book": "Alcoholics Anonymous Big Book",
+        "author(s)": "Bill Wilson",
+        "original_language": "English",
+        "first_published": 1939,
+        "approximate_sales_in_millions": 30.0,
+        "genre": "Self-help"
+    },
+    {
+        "book": "How to Win Friends and Influence People",
+        "author(s)": "Dale Carnegie",
+        "original_language": "English",
+        "first_published": 1936,
+        "approximate_sales_in_millions": 30.0,
+        "genre": "Self-help"
+    },
+    {
+        "book": "The Great Gatsby",
+        "author(s)": "F. Scott Fitzgerald",
+        "original_language": "English",
+        "first_published": 1925,
+        "approximate_sales_in_millions": 30.0,
+        "genre": "Novel, tragedy"
+    },
+    {
+        "book": "Gone with the Wind",
+        "author(s)": "Margaret Mitchell",
+        "original_language": "English",
+        "first_published": 1936,
+        "approximate_sales_in_millions": 30.0,
+        "genre": "Historical fiction"
+    },
+    {
+        "book": "Rebecca",
+        "author(s)": "Daphne du Maurier",
+        "original_language": "English",
+        "first_published": 1938,
+        "approximate_sales_in_millions": 30.0,
+        "genre": "Gothic novel"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "author(s)": "George Orwell",
+        "original_language": "English",
+        "first_published": 1949,
+        "approximate_sales_in_millions": 30.0,
+        "genre": "Dystopian, political fiction, social science fiction"
+    },
+    {
+        "book": "The Revolt of Mamie Stover",
+        "author(s)": "William Bradford Huie",
+        "original_language": "English",
+        "first_published": 1951,
+        "approximate_sales_in_millions": 30.0,
+        "genre": "Fiction"
+    },
+    {
+        "book": "The Girl with the Dragon Tattoo (Män som hatar kvinnor)",
+        "author(s)": "Stieg Larsson",
+        "original_language": "Swedish",
+        "first_published": 2005,
+        "approximate_sales_in_millions": 30.0,
+        "genre": "Fiction"
+    },
+    {
+        "book": "The Lost Symbol",
+        "author(s)": "Dan Brown",
+        "original_language": "English",
+        "first_published": 2009,
+        "approximate_sales_in_millions": 30.0,
+        "genre": "Fiction"
+    },
+    {
+        "book": "The Hunger Games",
+        "author(s)": "Suzanne Collins",
+        "original_language": "English",
+        "first_published": 2008,
+        "approximate_sales_in_millions": 29.0,
+        "genre": "Young adult fiction"
+    },
+    {
+        "book": "James and the Giant Peach",
+        "author(s)": "Roald Dahl",
+        "original_language": "English",
+        "first_published": 1961,
+        "approximate_sales_in_millions": 28.0,
+        "genre": "Children's novel"
+    },
+    {
+        "book": "The Young Guard (Молодая гвардия)",
+        "author(s)": "Alexander Alexandrovich Fadeyev",
+        "original_language": "Russian",
+        "first_published": 1945,
+        "approximate_sales_in_millions": 26.0,
+        "genre": "Young adult historical novel"
+    },
+    {
+        "book": "Who Moved My Cheese?",
+        "author(s)": "Spencer Johnson",
+        "original_language": "English",
+        "first_published": 1998,
+        "approximate_sales_in_millions": 29.0,
+        "genre": "Self-help, motivational, business fable, psychology, leadership, parable"
+    },
+    {
+        "book": "A Brief History of Time",
+        "author(s)": "Stephen Hawking",
+        "original_language": "English",
+        "first_published": 1988,
+        "approximate_sales_in_millions": 25.0,
+        "genre": "Popular science"
+    },
+    {
+        "book": "Paul et Virginie",
+        "author(s)": "Jacques-Henri Bernardin de Saint-Pierre",
+        "original_language": "French",
+        "first_published": 1788,
+        "approximate_sales_in_millions": 25.0,
+        "genre": "Novel"
+    },
+    {
+        "book": "Lust for Life",
+        "author(s)": "Irving Stone",
+        "original_language": "English",
+        "first_published": 1934,
+        "approximate_sales_in_millions": 25.0,
+        "genre": "Biographical novel"
+    },
+    {
+        "book": "The Wind in the Willows",
+        "author(s)": "Kenneth Grahame",
+        "original_language": "English",
+        "first_published": 1908,
+        "approximate_sales_in_millions": 25.0,
+        "genre": "Children's literature"
+    },
+    {
+        "book": "The 7 Habits of Highly Effective People",
+        "author(s)": "Stephen R. Covey",
+        "original_language": "English",
+        "first_published": 1989,
+        "approximate_sales_in_millions": 25.0,
+        "genre": "Self-help"
+    },
+    {
+        "book": "Virgin Soil Upturned (Поднятая целина)",
+        "author(s)": "Mikhail Sholokhov",
+        "original_language": "Russian",
+        "first_published": 1935,
+        "approximate_sales_in_millions": 24.0,
+        "genre": "Novel"
+    },
+    {
+        "book": "The Celestine Prophecy",
+        "author(s)": "James Redfield",
+        "original_language": "English",
+        "first_published": 1993,
+        "approximate_sales_in_millions": 23.0,
+        "genre": "New-age spiritual novel"
+    },
+    {
+        "book": "The Fault in Our Stars",
+        "author(s)": "John Green",
+        "original_language": "English",
+        "first_published": 2012,
+        "approximate_sales_in_millions": 23.0,
+        "genre": "Young adult romantic novel"
+    },
+    {
+        "book": "The Girl on the Train",
+        "author(s)": "Paula Hawkins",
+        "original_language": "English",
+        "first_published": 2015,
+        "approximate_sales_in_millions": 23.0,
+        "genre": "Thriller"
+    },
+    {
+        "book": "The Shack",
+        "author(s)": "William P. Young",
+        "original_language": "English",
+        "first_published": 2007,
+        "approximate_sales_in_millions": 22.5,
+        "genre": "Novel"
+    },
+    {
+        "book": "Uncle Styopa (Дядя Стёпа)",
+        "author(s)": "Sergey Mikhalkov",
+        "original_language": "Russian",
+        "first_published": 1936,
+        "approximate_sales_in_millions": 21.0,
+        "genre": "Children's Literature, picture book"
+    },
+    {
+        "book": "The Godfather",
+        "author(s)": "Mario Puzo",
+        "original_language": "English",
+        "first_published": 1969,
+        "approximate_sales_in_millions": 21.0,
+        "genre": "Crime novel"
+    },
+    {
+        "book": "Love Story",
+        "author(s)": "Erich Segal",
+        "original_language": "English",
+        "first_published": 1970,
+        "approximate_sales_in_millions": 21.0,
+        "genre": "Romance novel"
+    },
+    {
+        "book": "Catching Fire",
+        "author(s)": "Suzanne Collins",
+        "original_language": "English",
+        "first_published": 2009,
+        "approximate_sales_in_millions": 21.0,
+        "genre": "Young Adult novel, adventure, dystopian, science fiction"
+    },
+    {
+        "book": "Mockingjay",
+        "author(s)": "Suzanne Collins",
+        "original_language": "English",
+        "first_published": 2010,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Young Adult novel, adventure, war, science fiction, action thriller"
+    },
+    {
+        "book": "Kitchen (キッチン)",
+        "author(s)": "Banana Yoshimoto",
+        "original_language": "Japanese",
+        "first_published": 1988,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Japanese novel"
+    },
+    {
+        "book": "Andromeda Nebula (Туманность Андромеды)",
+        "author(s)": "Ivan Yefremov",
+        "original_language": "Russian",
+        "first_published": 1957,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Science fiction novel"
+    },
+    {
+        "book": "Autobiography of a Yogi (योगी कथामृत)",
+        "author(s)": "Paramahansa Yogananda",
+        "original_language": "Hindi",
+        "first_published": 1946,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Autobiography"
+    },
+    {
+        "book": "Gone Girl",
+        "author(s)": "Gillian Flynn",
+        "original_language": "English",
+        "first_published": 2012,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Crime thriller novel"
+    },
+    {
+        "book": "All Quiet on the Western Front (Im Westen nichts Neues)",
+        "author(s)": "Erich Maria Remarque",
+        "original_language": "German",
+        "first_published": 1929,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "War novel"
+    },
+    {
+        "book": "The Bermuda Triangle",
+        "author(s)": "Charles Berlitz",
+        "original_language": "English",
+        "first_published": 1974,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Things Fall Apart ",
+        "author(s)": "Chinua Achebe",
+        "original_language": "English",
+        "first_published": 1958,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Novel"
+    },
+    {
+        "book": "Animal Farm ",
+        "author(s)": "George Orwell",
+        "original_language": "English",
+        "first_published": 1945,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Satirical allegorical novella, Political satire, Dystopian Fiction, Roman à clef"
+    },
+    {
+        "book": "Wolf Totem (狼图腾)",
+        "author(s)": "Jiang Rong",
+        "original_language": "Chinese",
+        "first_published": 2004,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Semi-autobiographical novel"
+    },
+    {
+        "book": "The Happy Hooker: My Own Story",
+        "author(s)": "Xaviera Hollander",
+        "original_language": "English",
+        "first_published": 1971,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Memoir"
+    },
+    {
+        "book": "Jaws",
+        "author(s)": "Peter Benchley",
+        "original_language": "English",
+        "first_published": 1974,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Thriller"
+    },
+    {
+        "book": "Love You Forever",
+        "author(s)": "Robert Munsch",
+        "original_language": "English",
+        "first_published": 1986,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Children's literature, picture book, fiction"
+    },
+    {
+        "book": "The Women's Room",
+        "author(s)": "Marilyn French",
+        "original_language": "English",
+        "first_published": 1977,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Feminist novel"
+    },
+    {
+        "book": "What to Expect When You're Expecting",
+        "author(s)": "Arlene Eisenberg and Heidi Murkoff",
+        "original_language": "English",
+        "first_published": 1984,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Pregnancy guide"
+    },
+    {
+        "book": "Adventures of Huckleberry Finn",
+        "author(s)": "Mark Twain",
+        "original_language": "English",
+        "first_published": 1885,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Picaresque novel, Bildungsroman, satire, Robinsonade"
+    },
+    {
+        "book": "The Secret Diary of Adrian Mole, Aged 13¾",
+        "author(s)": "Sue Townsend",
+        "original_language": "English",
+        "first_published": 1982,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Young adult novel"
+    },
+    {
+        "book": "Pride and Prejudice",
+        "author(s)": "Jane Austen",
+        "original_language": "English",
+        "first_published": 1813,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Classic regency novel, romance"
+    },
+    {
+        "book": "Kon-Tiki: Across the Pacific in a Raft (Kon-Tiki ekspedisjonen)",
+        "author(s)": "Thor Heyerdahl",
+        "original_language": "Norwegian",
+        "first_published": 1950,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Travel literature"
+    },
+    {
+        "book": "The Good Soldier Švejk (Osudy dobrého vojáka Švejka za světové války)",
+        "author(s)": "Jaroslav Hašek",
+        "original_language": "Czech",
+        "first_published": 1923,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Unfinished satirical dark comedy novel"
+    },
+    {
+        "book": "Where the Wild Things Are",
+        "author(s)": "Maurice Sendak",
+        "original_language": "English",
+        "first_published": 1963,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Children's picture book"
+    },
+    {
+        "book": "The Power of Positive Thinking",
+        "author(s)": "Norman Vincent Peale",
+        "original_language": "English",
+        "first_published": 1952,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Self-help"
+    },
+    {
+        "book": "The Secret",
+        "author(s)": "Rhonda Byrne",
+        "original_language": "English",
+        "first_published": 2006,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Self-help"
+    },
+    {
+        "book": "Fear of Flying",
+        "author(s)": "Erica Jong",
+        "original_language": "English",
+        "first_published": 1973,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Romantic novel"
+    },
+    {
+        "book": "Dune",
+        "author(s)": "Frank Herbert",
+        "original_language": "English",
+        "first_published": 1965,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Science fiction novel"
+    },
+    {
+        "book": "Charlie and the Chocolate Factory",
+        "author(s)": "Roald Dahl",
+        "original_language": "English",
+        "first_published": 1964,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Children's fantasy novel"
+    },
+    {
+        "book": "The Naked Ape",
+        "author(s)": "Desmond Morris",
+        "original_language": "English",
+        "first_published": 1968,
+        "approximate_sales_in_millions": 20.0,
+        "genre": "Social Science, Anthropology, Psychology"
+    },
+    {
+        "book": "Where the Crawdads Sing",
+        "author(s)": "Delia Owens",
+        "original_language": "English",
+        "first_published": 2018,
+        "approximate_sales_in_millions": 18.0,
+        "genre": "Coming-of-age Murder mystery"
+    },
+    {
+        "book": "Totto-chan, the Little Girl at the Window (窓ぎわのトットちゃん)",
+        "author(s)": "Tetsuko Kuroyanagi",
+        "original_language": "Japanese",
+        "first_published": 1981,
+        "approximate_sales_in_millions": 18.0,
+        "genre": "Autobiographical novel"
+    },
+    {
+        "book": "Matilda",
+        "author(s)": "Roald Dahl",
+        "original_language": "English",
+        "first_published": 1988,
+        "approximate_sales_in_millions": 17.0,
+        "genre": "Children's Literature"
+    },
+    {
+        "book": "The Book Thief",
+        "author(s)": "Markus Zusak",
+        "original_language": "English",
+        "first_published": 2005,
+        "approximate_sales_in_millions": 16.0,
+        "genre": "Young Adult Fiction"
+    },
+    {
+        "book": "The Horse Whisperer",
+        "author(s)": "Nicholas Evans",
+        "original_language": "English",
+        "first_published": 1995,
+        "approximate_sales_in_millions": 16.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Goodnight Moon",
+        "author(s)": "Margaret Wise Brown",
+        "original_language": "English",
+        "first_published": 1947,
+        "approximate_sales_in_millions": 16.0,
+        "genre": "Children's Literature"
+    },
+    {
+        "book": "The Neverending Story (Die unendliche Geschichte)",
+        "author(s)": "Michael Ende",
+        "original_language": "German",
+        "first_published": 1979,
+        "approximate_sales_in_millions": 16.0,
+        "genre": "Children's Literature"
+    },
+    {
+        "book": "All the Light We Cannot See",
+        "author(s)": "Anthony Doerr",
+        "original_language": "English",
+        "first_published": 2014,
+        "approximate_sales_in_millions": 15.3,
+        "genre": "Historical fiction, war novel"
+    },
+    {
+        "book": "Fifty Shades of Grey",
+        "author(s)": "E. L. James",
+        "original_language": "English",
+        "first_published": 2011,
+        "approximate_sales_in_millions": 15.2,
+        "genre": "Erotica"
+    },
+    {
+        "book": "The Outsiders",
+        "author(s)": "S. E. Hinton",
+        "original_language": "English",
+        "first_published": 1967,
+        "approximate_sales_in_millions": 15.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Guess How Much I Love You",
+        "author(s)": "Sam McBratney",
+        "original_language": "English",
+        "first_published": 1994,
+        "approximate_sales_in_millions": 15.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Shōgun",
+        "author(s)": "James Clavell",
+        "original_language": "English",
+        "first_published": 1975,
+        "approximate_sales_in_millions": 15.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Poky Little Puppy",
+        "author(s)": "Janette Sebring Lowrey",
+        "original_language": "English",
+        "first_published": 1942,
+        "approximate_sales_in_millions": 15.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Pillars of the Earth",
+        "author(s)": "Ken Follett",
+        "original_language": "English",
+        "first_published": 1989,
+        "approximate_sales_in_millions": 15.0,
+        "genre": "Historical fiction"
+    },
+    {
+        "book": "Perfume (Das Parfum)",
+        "author(s)": "Patrick Süskind",
+        "original_language": "German",
+        "first_published": 1985,
+        "approximate_sales_in_millions": 15.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Grapes of Wrath",
+        "author(s)": "John Steinbeck",
+        "original_language": "English",
+        "first_published": 1939,
+        "approximate_sales_in_millions": 15.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Shadow of the Wind (La sombra del viento)",
+        "author(s)": "Carlos Ruiz Zafón",
+        "original_language": "Spanish",
+        "first_published": 2001,
+        "approximate_sales_in_millions": 15.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Interpreter of Maladies",
+        "author(s)": "Jhumpa Lahiri",
+        "original_language": "English",
+        "first_published": 2000,
+        "approximate_sales_in_millions": 15.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Becoming",
+        "author(s)": "Michelle Obama",
+        "original_language": "English",
+        "first_published": 2018,
+        "approximate_sales_in_millions": 14.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Hitchhiker's Guide to the Galaxy",
+        "author(s)": "Douglas Adams",
+        "original_language": "English",
+        "first_published": 1979,
+        "approximate_sales_in_millions": 14.0,
+        "genre": "Science fiction"
+    },
+    {
+        "book": "Tuesdays with Morrie",
+        "author(s)": "Mitch Albom",
+        "original_language": "English",
+        "first_published": 1997,
+        "approximate_sales_in_millions": 14.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "God's Little Acre",
+        "author(s)": "Erskine Caldwell",
+        "original_language": "English",
+        "first_published": 1933,
+        "approximate_sales_in_millions": 14.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Follow Your Heart (Va' dove ti porta il cuore)",
+        "author(s)": "Susanna Tamaro",
+        "original_language": "Italian",
+        "first_published": 1994,
+        "approximate_sales_in_millions": 14.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "A Wrinkle in Time",
+        "author(s)": "Madeleine L'Engle",
+        "original_language": "English",
+        "first_published": 1962,
+        "approximate_sales_in_millions": 14.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Long Walk to Freedom",
+        "author(s)": "Nelson Mandela",
+        "original_language": "English",
+        "first_published": 1994,
+        "approximate_sales_in_millions": 14.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Old Man and the Sea",
+        "author(s)": "Ernest Hemingway",
+        "original_language": "English",
+        "first_published": 1952,
+        "approximate_sales_in_millions": 13.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Life After Life",
+        "author(s)": "Raymond Moody",
+        "original_language": "English",
+        "first_published": 1975,
+        "approximate_sales_in_millions": 13.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Peyton Place ",
+        "author(s)": "Grace Metalious",
+        "original_language": "English",
+        "first_published": 1956,
+        "approximate_sales_in_millions": 12.1,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Giver",
+        "author(s)": "Lois Lowry",
+        "original_language": "English",
+        "first_published": 1993,
+        "approximate_sales_in_millions": 12.0,
+        "genre": "Dystopian fiction"
+    },
+    {
+        "book": "Me Before You",
+        "author(s)": "Jojo Moyes",
+        "original_language": "English",
+        "first_published": 2012,
+        "approximate_sales_in_millions": 12.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Norwegian Wood (ノルウェイの森)",
+        "author(s)": "Haruki Murakami",
+        "original_language": "Japanese",
+        "first_published": 1987,
+        "approximate_sales_in_millions": 12.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Plague (La Peste)",
+        "author(s)": "Albert Camus",
+        "original_language": "French",
+        "first_published": 1947,
+        "approximate_sales_in_millions": 12.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "No Longer Human (人間失格)",
+        "author(s)": "Osamu Dazai",
+        "original_language": "Japanese",
+        "first_published": 1948,
+        "approximate_sales_in_millions": 12.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Man's Search for Meaning (Ein Psychologe erlebt das Konzentrationslager)",
+        "author(s)": "Viktor Frankl",
+        "original_language": "German",
+        "first_published": 1946,
+        "approximate_sales_in_millions": 12.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Divine Comedy (La Divina Commedia)",
+        "author(s)": "Dante Alighieri",
+        "original_language": "Italian",
+        "first_published": 1304,
+        "approximate_sales_in_millions": 11.5,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Prophet",
+        "author(s)": "Kahlil Gibran",
+        "original_language": "English",
+        "first_published": 1923,
+        "approximate_sales_in_millions": 11.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Boy in the Striped Pyjamas",
+        "author(s)": "John Boyne",
+        "original_language": "English",
+        "first_published": 2006,
+        "approximate_sales_in_millions": 11.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Exorcist",
+        "author(s)": "William Peter Blatty",
+        "original_language": "English",
+        "first_published": 1971,
+        "approximate_sales_in_millions": 11.0,
+        "genre": "Horror"
+    },
+    {
+        "book": "The Gruffalo",
+        "author(s)": "Julia Donaldson",
+        "original_language": "English",
+        "first_published": 1999,
+        "approximate_sales_in_millions": 10.5,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Fifty Shades Darker",
+        "author(s)": "E. L. James",
+        "original_language": "English",
+        "first_published": 2012,
+        "approximate_sales_in_millions": 10.4,
+        "genre": "Erotica"
+    },
+    {
+        "book": "Tobacco Road",
+        "author(s)": "Erskine Caldwell",
+        "original_language": "English",
+        "first_published": 1932,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Ronia, the Robber's Daughter",
+        "author(s)": "Astrid Lindgren",
+        "original_language": "Swedish",
+        "first_published": 1981,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Cat in the Hat",
+        "author(s)": "Dr. Seuss",
+        "original_language": "English",
+        "first_published": 1957,
+        "approximate_sales_in_millions": 10.5,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Diana: Her True Story",
+        "author(s)": "Andrew Morton",
+        "original_language": "English",
+        "first_published": 1992,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Help",
+        "author(s)": "Kathryn Stockett",
+        "original_language": "English",
+        "first_published": 2009,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Catch-22",
+        "author(s)": "Joseph Heller",
+        "original_language": "English",
+        "first_published": 1961,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Stranger (L'Étranger)",
+        "author(s)": "Albert Camus",
+        "original_language": "French",
+        "first_published": 1942,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Eye of the Needle",
+        "author(s)": "Ken Follett",
+        "original_language": "English",
+        "first_published": 1978,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Lovely Bones",
+        "author(s)": "Alice Sebold",
+        "original_language": "English",
+        "first_published": 2002,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Wild Swans",
+        "author(s)": "Jung Chang",
+        "original_language": "English",
+        "first_published": 1992,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Santa Evita",
+        "author(s)": "Tomás Eloy Martínez",
+        "original_language": "Spanish",
+        "first_published": 1995,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Night (Un di Velt Hot Geshvign)",
+        "author(s)": "Elie Wiesel",
+        "original_language": "Yiddish",
+        "first_published": 1958,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Confucius from the Heart (于丹《论语》心得)",
+        "author(s)": "Yu Dan",
+        "original_language": "Chinese",
+        "first_published": 2006,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Total Woman",
+        "author(s)": "Marabel Morgan",
+        "original_language": "English",
+        "first_published": 1974,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Knowledge-value Revolution (知価革命)",
+        "author(s)": "Taichi Sakaiya",
+        "original_language": "Japanese",
+        "first_published": 1985,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Problems in China's Socialist Economy (中国社会主义经济问题研究)",
+        "author(s)": "Xue Muqiao",
+        "original_language": "Chinese",
+        "first_published": 1979,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "What Color Is Your Parachute?",
+        "author(s)": "Richard Nelson Bolles",
+        "original_language": "English",
+        "first_published": 1970,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Dukan Diet",
+        "author(s)": "Pierre Dukan",
+        "original_language": "French",
+        "first_published": 2000,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Joy of Sex",
+        "author(s)": "Alex Comfort",
+        "original_language": "English",
+        "first_published": 1972,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Gospel According to Peanuts",
+        "author(s)": "Robert L. Short",
+        "original_language": "English",
+        "first_published": 1965,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Subtle Art of Not Giving a Fuck",
+        "author(s)": "Mark Manson",
+        "original_language": "English",
+        "first_published": 2016,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Life of Pi",
+        "author(s)": "Yann Martel",
+        "original_language": "English",
+        "first_published": 2001,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Front Runner",
+        "author(s)": "Patricia Nell Warren",
+        "original_language": "English",
+        "first_published": 1974,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Goal",
+        "author(s)": "Eliyahu M. Goldratt",
+        "original_language": "English",
+        "first_published": 1984,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Fahrenheit 451",
+        "author(s)": "Ray Bradbury",
+        "original_language": "English",
+        "first_published": 1953,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Angela's Ashes",
+        "author(s)": "Frank McCourt",
+        "original_language": "English",
+        "first_published": 1996,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "The Story of My Experiments with Truth (સત્યના પ્રયોગો અથવા આત્મકથા)",
+        "author(s)": "Mohandas Karamchand Gandhi",
+        "original_language": "Gujarati",
+        "first_published": 1929,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    },
+    {
+        "book": "Bridget Jones's Diary",
+        "author(s)": "Helen Fielding",
+        "original_language": "English",
+        "first_published": 1996,
+        "approximate_sales_in_millions": 10.0,
+        "genre": "Desconocido"
+    }
+]
